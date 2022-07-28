@@ -1,0 +1,10 @@
+{
+  "name": "html-fundme",
+  "version": "1.0.0",
+  "description": "a simple page for interacting wallet and contract",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

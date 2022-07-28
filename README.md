@@ -1,1 +1,1 @@
-# simple-html-contract
+yarn http-server open a new live server to show front page
